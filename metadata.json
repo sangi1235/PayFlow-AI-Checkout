@@ -1,0 +1,5 @@
+{
+  "name": "PayFlow AI Checkout",
+  "description": "A high-fidelity credit card checkout experience featuring real-time validation, 3D card visualization, and Gemini-powered smart receipts.",
+  "requestFramePermissions": []
+}
